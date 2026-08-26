@@ -57,9 +57,9 @@ Yapay zeka (LLM/ML), veri bilimi ve mobil uygulama geliştirme alanlarında akti
 
 ## 🎓 Eğitim
 
-- **Lisans:** Yazılım Mühendisliği, Kütahya Dumlupınar Üniversitesi *(2024-2026, Mezun, GNO: 3.11/4.00)*
+- **Lisans:** Yazılım Mühendisliği, Kütahya Dumlupınar Üniversitesi *(2024-2026, Mezun, GNO: 3.24/4.00)*
 - **Önlisans:** E-Ticaret ve Pazarlama, Atatürk Üniversitesi (Açık Öğretim) *(2025-Devam Ediyor)*
-- **Lisans (Önceki):** Yazılım Mühendisliği, Karabük Üniversitesi *(2022-2024, GNO: 3.44/4.00)*
+- **Lisans (Önceki):** Yazılım Mühendisliği, Karabük Üniversitesi *(2022-2024)*
 
 ---
 
