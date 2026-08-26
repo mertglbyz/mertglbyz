@@ -57,9 +57,9 @@ I am a Software Engineer with active project experience in Artificial Intelligen
 
 ## 🎓 Education
 
-- **B.S. Software Engineering:** Kütahya Dumlupınar University *(2024-2026, Graduated, GPA: 3.11/4.00)*
+- **B.S. Software Engineering:** Kütahya Dumlupınar University *(2024-2026, Graduated, GPA: 3.24/4.00)*
 - **A.S. E-Commerce and Marketing:** Atatürk University (Open Education) *(2025-Present)*
-- **B.S. Software Engineering (Previous):** Karabük University *(2022-2024, GPA: 3.44/4.00)*
+- **B.S. Software Engineering (Previous):** Karabük University *(2022-2024)*
 
 ---
 
