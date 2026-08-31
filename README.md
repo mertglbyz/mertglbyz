@@ -12,7 +12,7 @@
  
 ## 👨‍💻 Profile
  
-I'm a Software Engineering student and mobile app developer specializing in **React Native**. I design and publish cross-platform applications on the App Store and Google Play, handling everything from architecture to CI/CD deployment (EAS Build). Alongside mobile development, I work on Data Science and Machine Learning projects — covering supervised/unsupervised learning, data preprocessing, and exploratory data analysis — and hold certifications in Cloud Platforms (GCP, AWS).
+I'm a Software Engineer and mobile app developer specializing in **React Native**. I design and publish cross-platform applications on the App Store and Google Play, handling everything from architecture to CI/CD deployment (EAS Build). Alongside mobile development, I work on Data Science and Machine Learning projects — covering supervised/unsupervised learning, data preprocessing, and exploratory data analysis — and hold certifications in Cloud Platforms (GCP, AWS).
  
 ---
  
