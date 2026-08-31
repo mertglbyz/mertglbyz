@@ -1,11 +1,12 @@
 <div align="center">
+
 # Mert Gülbeyaz
- 
+
 ### 📱 Mobile App Developer (React Native) | AI & Data Science Enthusiast
- 
+
 <a href="https://www.linkedin.com/in/mertglbyz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/mertglbyz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
- 
+
 </div>
 ---
  
