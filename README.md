@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mert Gülbeyaz</h1>
-  <h3>Software Engineer | Mobile & Data Science Developer</h3>
+  <h3>Software Engineer | Mobile App Developer & AI & ML</h3>
   
   <a href="https://www.linkedin.com/in/mertglbyz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
