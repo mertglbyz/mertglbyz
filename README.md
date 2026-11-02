@@ -59,7 +59,7 @@ Software Engineer based in **İzmir** 📍, building production mobile apps with
 | | Project | What it does | Stack |
 |:-:|---|---|---|
 | 🏛️ | **[KPSS Atama](https://github.com/mertglbyz/KPSS_Atama_Showcase)** | Scans official public-sector job postings, matches them to the candidate's education, KPSS score and requirements, ranks scores within the same department, sends instant alerts. Live on App Store & Google Play. | RN · TS · Supabase · RevenueCat |
-| 💧 | **[Water Reminder](https://github.com/mertglbyz/Water_Reminder_Support)** | Hydration tracker with offline-first sync, 28 languages and reminders. Live on App Store & Google Play. | RN · Supabase · Expo |
+| 💧 | **[Water Reminder](https://github.com/mertglbyz/Water_Reminder_Showcase)** | Hydration tracker with offline-first sync, 28 languages and reminders. Live on App Store & Google Play. | RN · Supabase · Kotlin · RevenueCat |
 | 🚌 | **[İzmir Transit Planner](https://github.com/mertglbyz/Izmir_Transportation_App_Showcase)** | Multi-modal routing over İzmir GTFS data with a Dockerized OpenTripPlanner engine on Oracle Cloud. | RN · TS · Node.js · Docker · OCI |
 | 📈 | **[BIST Stock Analysis Dashboard](https://github.com/mertglbyz/AI-Powered-Financial-Stock-Analysis-Dashboard)** | Random Forest–based signals and technical indicators for Borsa İstanbul stocks. | Python · FastAPI · Next.js · Docker |
 
@@ -93,8 +93,6 @@ Software Engineer based in **İzmir** 📍, building production mobile apps with
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertglbyz&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F3864&height=90&section=footer" width="100%" />
 
