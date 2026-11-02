@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:3B82F6&height=150&section=header&text=Mert%20G%C3%BClbeyaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Mobile+App+Developer+(React+Native);2+apps+live+on+App+Store+%26+Google+Play;TypeScript+%C2%B7+Supabase+%C2%B7+Firebase;Data+Science+%26+ML+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Mobile+App+Developer+%7C+AI%2FML+Engineer;2+apps+live+on+App+Store+%26+Google+Play;TypeScript+%C2%B7+Supabase+%C2%B7+Firebase;React+Native+%C2%B7+Supabase+%C2%B7+Gemini+API" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/mertglbyz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/mertglbyz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
