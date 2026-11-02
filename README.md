@@ -1,65 +1,101 @@
 <div align="center">
 
-# Mert Gülbeyaz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:3B82F6&height=150&section=header&text=Mert%20G%C3%BClbeyaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### 📱 Mobile App Developer (React Native) | AI & Data Science
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Mobile+App+Developer+(React+Native);2+apps+live+on+App+Store+%26+Google+Play;TypeScript+%C2%B7+Supabase+%C2%B7+Firebase;Data+Science+%26+ML+enthusiast" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/mertglbyz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/mertglbyz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:gulbeyazm6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+🇹🇷 [Türkçe](README-tr.md)
 
 </div>
-<hr>
- 
-## 👨‍💻 Profile
- 
-I'm a Software Engineer and mobile app developer specializing in **React Native**. I design and publish cross-platform applications on the App Store and Google Play, handling everything from architecture to CI/CD deployment (EAS Build). Alongside mobile development, I work on Data Science and Machine Learning projects — covering supervised/unsupervised learning, data preprocessing, and exploratory data analysis — and hold certifications in Cloud Platforms (GCP, AWS).
- 
+
 ---
- 
-## 🛠️ Technical Skills
- 
-- **Mobile Development:** React Native, Expo, EAS Build, Supabase, i18n (multi-language support), offline-first architecture
-- **Web & Core IT:** JavaScript, Node.js, HTML, CSS, SQL, ASP.NET, Git, GitHub
-- **Data Science / ML:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
-- **Machine Learning Concepts:** Data Preprocessing, EDA, Classification, Regression, Clustering, LLM fundamentals
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
+
+## 👨‍💻 About Me
+
+Software Engineer based in **İzmir** 📍, building production mobile apps with **React Native & TypeScript**. I take apps from architecture to store release on my own — backend on Supabase, subscriptions with RevenueCat, builds and distribution with EAS. Alongside mobile, I work on Data Science & ML projects and hold GCP and AWS cloud certifications.
+
+- 🏛️ Latest release: **KPSS Atama** — matches public-sector job postings to a candidate's profile
+- 🚌 Internship: built the **İzmir Transit Planner** on a self-hosted OpenTripPlanner engine
+
 ---
- 
-## 💼 Professional Experience
- 
-**Independent Mobile App Developer | Freelance** *(2025 – Present)*
-- Built and published cross-platform mobile applications from scratch using React Native and Supabase, implementing multi-language (i18n) support and offline-first data sync.
-- Managed end-to-end App Store (iOS) and Google Play (Android) distribution, including EAS Build CI/CD configuration.
-**Intern Software Developer | İzmir İnovasyon ve Teknoloji A.Ş.** *(2026)*
-- Designed and developed **İzmir Transit Planner**, a production-grade multi-modal transit app unifying 5 transport networks (bus, metro, tram, İZBAN, ferry) and 11,000+ stops into a single real-time routing engine.
-- Built the React Native/TypeScript frontend alongside a self-hosted OpenTripPlanner (GTFS) backend, solving hard engineering problems such as O(1) stop/route lookups via reverse indexing and viewport-based virtualization for rendering thousands of map markers.
-- Deployed the system on Oracle Cloud with a fully automated Docker/Coolify CI/CD pipeline, achieving zero-downtime releases.
-**Intern Software Developer | Yaşar University, İzmir** *(July 2024)*
-- Contributed to the analysis, development, and implementation of a digitalization and automation project for university preference counseling processes.
-- Built automation tools using Excel and ASP.NET, reducing data processing time.
+
+## 🛠️ Tech Stack
+
+**📱 Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS_Build-4630EB?style=flat-square&logo=expo&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logoColor=white)
+
+**⚙️ Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**📊 Data Science & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 ---
- 
-## 🚀 Projects & Repositories
- 
-### 📱 Mobile Development
-- 🚌 **İzmir Transit Planner:** A production-grade, multi-modal transit app unifying 5 transport networks (bus, metro, tram, İZBAN, ferry) and 11,000+ stops into a single real-time routing engine. Built with React Native, TypeScript, and a self-hosted OpenTripPlanner/GTFS backend deployed via Docker on Oracle Cloud. *(Source is private — repo below is a technical showcase of the architecture and engineering decisions.)* ([Showcase Repo](https://github.com/mertglbyz/Izmir_Transportation_App_Showcase))
-- 💧 **Water Reminder App (Production):** Daily hydration tracking app live on the App Store and Google Play. Features offline data sync, localization (i18n), and push notifications. ([Support Repo](https://github.com/mertglbyz/Water_Reminder_Support))
-### 📊 Data Science & Machine Learning
-- 🧠 **Supervised Learning:** [Classification Problems](https://github.com/mertglbyz/Classification_Problems) · [Linear Regression](https://github.com/mertglbyz/Lineer_Reg_and_Cousins) · [Nonlinear Regression Models](https://github.com/mertglbyz/Nonlinear_Regression_Models)
-- 📈 **Data Analysis & Statistics:** [Exploratory Data Analysis](https://github.com/mertglbyz/Exploratory_Data_Analysis_and_Data_Visualization) · [Statistics for Data Science](https://github.com/mertglbyz/Statistics_for_Data_Science) · [Data Preprocessing](https://github.com/mertglbyz/Data_Preprocessing) · [Numpy & Pandas](https://github.com/mertglbyz/Numpy_and_Pandas_Library)
-### 🌐 Web Architecture
-- A JavaScript/Node.js project implementing client-server communication and REST architecture.
+
+## 🚀 Featured Projects
+
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 🏛️ | **[KPSS Atama](https://github.com/mertglbyz/KPSS_Atama_Showcase)** | Scans official public-sector job postings, matches them to the candidate's education, KPSS score and requirements, ranks scores within the same department, sends instant alerts. Live on App Store & Google Play. | RN · TS · Supabase · RevenueCat |
+| 💧 | **[Water Reminder](https://github.com/mertglbyz/Water_Reminder_Support)** | Hydration tracker with offline-first sync, 18 languages and reminders. Live on App Store & Google Play. | RN · Supabase · Expo |
+| 🚌 | **[İzmir Transit Planner](https://github.com/mertglbyz/Izmir_Transportation_App_Showcase)** | Multi-modal routing over İzmir GTFS data with a Dockerized OpenTripPlanner engine on Oracle Cloud. | RN · TS · Node.js · Docker · OCI |
+| 📈 | **[BIST Stock Analysis Dashboard](https://github.com/mertglbyz/AI-Powered-Financial-Stock-Analysis-Dashboard)** | Random Forest–based signals and technical indicators for Borsa İstanbul stocks. | Python · FastAPI · Next.js · Docker |
+
+**🧠 ML & Data notebooks:** [Classification](https://github.com/mertglbyz/Classification_Problems) · [Linear Regression](https://github.com/mertglbyz/Lineer_Reg_and_Cousins) · [Nonlinear Regression](https://github.com/mertglbyz/Nonlinear_Regression_Models) · [Unsupervised Learning](https://github.com/mertglbyz/Unsupervised_Learning) · [EDA & Visualization](https://github.com/mertglbyz/Exploratory_Data_Analysis_and_Data_Visualization) · [Data Preprocessing](https://github.com/mertglbyz/Data_Preprocessing) · [Statistics](https://github.com/mertglbyz/Statistics_for_Data_Science)
+
 ---
- 
+
+## 💼 Experience
+
+**Independent Mobile App Developer — Freelance** *(2025 – Present)*
+- Built and published **KPSS Atama** and **Water Reminder** to the App Store and Google Play as an independent developer.
+- Implemented posting–profile matching, RevenueCat subscriptions (monthly / quarterly / yearly), Expo push notifications and offline-first Supabase sync.
+
+**Intern Software Developer — İzmir İnovasyon ve Teknoloji A.Ş.** *(2026)*
+- Developed the React Native client of İzmir Transit Planner; containerized the OpenTripPlanner engine with Docker and deployed it to Oracle Cloud.
+
+**Intern Software Developer — Yaşar University, İzmir** *(July 2024)*
+- Automated manual data-processing steps in a university counseling workflow with ASP.NET tools integrated into Excel.
+
+---
+
 ## 🎓 Education
- 
-- **B.S. Software Engineering — Kütahya Dumlupınar University** *(2024–2026, Graduated)* — GPA: 3.24/4.00
-- **B.S. Software Engineering (Previous) — Karabük University** *(2022–2024)*
-- **A.S. E-Commerce and Marketing — Atatürk University (Open Education)** *(2025–Present)*
----
- 
+
+- **B.S. Software Engineering** — Kütahya Dumlupınar University *(2024 – 2026, GPA 3.24/4.00)*
+- **B.S. Software Engineering (Transfer)** — Karabük University *(2022 – 2024)*
+
 ## 📜 Certifications
- 
-- **Cloud & Infrastructure:** Infrastructure and Applications with GCP (Google, 2026) · Cloud Computing with AWS (BTK Akademi, 2026)
-- **Database & Version Control:** Database Design & Programming with SQL (Oracle, 2024) · Git & GitHub (BTK Akademi, 2026)
-- **AI & Data Science:** Intro to Generative AI, LLMs, and Responsible AI (Google, 2024) · Learning Data Science (LinkedIn, 2025)
+
+☁️ Infrastructure and Applications with Google Cloud (2026) · AWS Cloud Computing — BTK Akademi (2026) · Git & GitHub — BTK Akademi (2026) · Learning Data Science — LinkedIn (2025) · Database Design & Programming with SQL — Oracle (2024) · Generative AI, LLMs & Responsible AI — Google (2024)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertglbyz&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F3864&height=90&section=footer" width="100%" />
+
+</div>
