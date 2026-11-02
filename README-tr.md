@@ -59,7 +59,7 @@
 | | Proje | Ne yapar | Stack |
 |:-:|---|---|---|
 | 🏛️ | **[KPSS Atama](https://github.com/mertglbyz/KPSS_Atama_Showcase)** | Resmi kamu personel ilanlarını tarar; adayın öğrenim, KPSS puanı ve şartlarıyla eşleştirir, aynı bölümde puan sırası hesaplar, anlık bildirim gönderir. App Store & Google Play'de yayında. | RN · TS · Supabase · RevenueCat |
-| 💧 | **[Water Reminder](https://github.com/mertglbyz/Water_Reminder_Support)** | Çevrimdışı-öncelikli senkronizasyon, 18 dil ve hatırlatıcılarla su takibi. App Store & Google Play'de yayında. | RN · Supabase · Expo |
+| 💧 | **[Water Reminder](https://github.com/mertglbyz/Water_Reminder_Support)** | Çevrimdışı-öncelikli senkronizasyon, 28 dil ve hatırlatıcılarla su takibi. App Store & Google Play'de yayında. | RN · Supabase · Expo |
 | 🚌 | **[İzmir Ulaşım Planlayıcı](https://github.com/mertglbyz/Izmir_Transportation_App_Showcase)** | İzmir GTFS verisi üzerinde, Docker'lı OpenTripPlanner motoruyla (Oracle Cloud) çok modlu rota planlama. | RN · TS · Node.js · Docker · OCI |
 | 📈 | **[BIST Hisse Analiz Paneli](https://github.com/mertglbyz/AI-Powered-Financial-Stock-Analysis-Dashboard)** | Borsa İstanbul hisseleri için teknik indikatörler ve Random Forest tabanlı sinyaller. | Python · FastAPI · Next.js · Docker |
 
